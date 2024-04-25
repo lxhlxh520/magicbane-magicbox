@@ -1,1 +1,1 @@
-From docker.io/magicbane/magicbox
+From ghcr.io/librespeed/speedtest
